@@ -1,0 +1,13 @@
+
+    def TicTacToe():
+        print(" |  | ");print("------");print(" |  | ");print("------");print(" |  | ")
+        def OX():
+            for i in range(1,9):
+            A = int(input())
+            B = int(input())
+
+# if C == 3줄
+#    C 에 승리
+# 
+    
+print(TicTacToe())
